@@ -13,7 +13,7 @@ class CategoryMealsScreen extends StatelessWidget {
         title: Text(categoryTitle!),
       ),
       body: const Center(
-        child: Text('The Recipes For The Category'),
+        child: Text('The Recipes For The Category from Taja-Khaja'),
       ),
     );
   }
